@@ -7,6 +7,8 @@ output: github_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+options(repr.plot.width = 4, repr.plot.height = 4)
+library(tidyverse)
 ```
 
 
