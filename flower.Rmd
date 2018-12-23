@@ -1,0 +1,12 @@
+---
+title: "A flower in the wild"
+author: "Amin Yakubu"
+date: "12/23/2018"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
